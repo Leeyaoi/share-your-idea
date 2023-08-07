@@ -1,0 +1,6 @@
+..\..\..\Ideas\idea2.txt
+..\..\..\Ideas\idea3.txt
+..\..\..\Ideas\idea0.txt
+..\..\..\Ideas\new_idea0.txt
+..\..\..\Ideas\моя_идея0.txt
+..\..\..\Ideas\ИДЕЯ0.txt
